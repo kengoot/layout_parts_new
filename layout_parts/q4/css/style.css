@@ -14,12 +14,7 @@
   padding-top: 20px;
 }
 
-.orange,
-.pink,
-.blue,
-.yellow,
-.red,
-.green {
+.colors {
   display: table-cell;
   padding: 20px 0;
   text-align: center;
@@ -31,7 +26,6 @@
 }
 
 .pink {
-  flex: 1;
   background-color: #e0abd9;
 }
 
@@ -41,12 +35,10 @@
 }
 
 .yellow {
-  flex: 1;
   background-color: #e5d32e;
 }
 
 .red {
-  flex: 1;
   background-color: #ec8f9a;
 }
 
