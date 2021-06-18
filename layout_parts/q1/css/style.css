@@ -8,7 +8,8 @@
 }
 
 .out_box {
-  width: 940px;
+  padding: 20px;
+  width: 900px;
   background-color: #eff3f4;
   margin: 0 auto;
 }
@@ -17,7 +18,11 @@
   background-color: #3274ae;
   padding: 20px;
   float: left;
-  margin: 20px 0 20px 20px;
+  margin-left: 20px;
+}
+
+.blue_box:first-child {
+  margin-left: 0;
 }
 
 .text_box {
