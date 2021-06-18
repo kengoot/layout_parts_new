@@ -9,10 +9,11 @@
   display: table;
   width: 100%;
   box-sizing: border-box;
+  margin-bottom: 20px;
 }
 
 .bar:last-child {
-  margin-top: 20px;
+  margin-bottom: 0;
 }
 
 .colors {
